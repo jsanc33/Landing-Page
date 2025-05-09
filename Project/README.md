@@ -1,8 +1,8 @@
 # Landing Page Mini-Project
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub top language](https://img.shields.io/github/languages/top/YOUR_USERNAME/YOUR_REPONAME?style=for-the-badge)](https://github.com/YOUR_USERNAME/YOUR_REPONAME)
-[![GitHub Pages](https://img.shields.io/github/deployments/YOUR_USERNAME/YOUR_REPONAME/github-pages?label=GitHub%20Pages&style=for-the-badge&logo=github)](https://YOUR_USERNAME.github.io/YOUR_REPONAME/)
+[![GitHub top language](https://img.shields.io/github/languages/top/jsanc33/Landing-Page?style=for-the-badge)](https://github.com/jsanc33/Landing-Page)
+[![GitHub Pages](https://img.shields.io/github/deployments/jsanc33/Landing-Page/github-pages?label=GitHub%20Pages&style=for-the-badge&logo=github)](https://jsanc33.github.io/Landing-Page/)
 
 A simple landing page built for Module 01 of the FSF Bootcamp. This project demonstrates basic HTML structure and CSS styling to create a responsive and accessible user interface for collecting visitor contact information.
 
@@ -43,21 +43,21 @@ Based on the project acceptance criteria:
 ## Deployed Application
 
 You can view the live deployed application here:
-**[https://YOUR_USERNAME.github.io/YOUR_REPONAME/](https://YOUR_USERNAME.github.io/YOUR_REPONAME/)**
+**[https://jsanc33.github.io/Landing-Page/](https://jsanc33.github.io/Landing-Page/)**
 
-*(Note: Remember to replace `YOUR_USERNAME` and `YOUR_REPONAME` with your actual GitHub username and the name of this repository for the link to work correctly.)*
+*(Note: Remember to replace `jsanc33` and `Landing-Page` with your actual GitHub username and the name of this repository for the link to work correctly.)*
 
 ## Setup
 
 To view or work on this project locally:
 1.  Clone the repository:
     ```bash
-    git clone https://github.com/YOUR_USERNAME/YOUR_REPONAME.git
+    git clone https://github.com/jsanc33/Landing-Page.git
     ```
-    *(Replace `YOUR_USERNAME` and `YOUR_REPONAME`)*
+    *(Replace `jsanc33` and `Landing-Page`)*
 2.  Navigate to the project directory:
     ```bash
-    cd YOUR_REPONAME
+    cd Landing-Page
     ```
 3.  Open the `index.html` file in your preferred web browser.
 
